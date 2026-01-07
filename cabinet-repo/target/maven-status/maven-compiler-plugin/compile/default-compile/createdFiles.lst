@@ -1,0 +1,9 @@
+ma\fsr\soa\cabinetrepo\model\Patient.class
+ma\fsr\soa\cabinetrepo\repository\PatientRepository.class
+ma\fsr\soa\cabinetrepo\model\Medecin.class
+ma\fsr\soa\cabinetrepo\model\Consultation.class
+ma\fsr\soa\cabinetrepo\repository\MedecinRepository.class
+ma\fsr\soa\cabinetrepo\model\RendezVous.class
+ma\fsr\soa\cabinetrepo\repository\RendezVousRepository.class
+ma\fsr\soa\cabinetrepo\model\RendezVous$StatutRendezVous.class
+ma\fsr\soa\cabinetrepo\repository\ConsultationRepository.class

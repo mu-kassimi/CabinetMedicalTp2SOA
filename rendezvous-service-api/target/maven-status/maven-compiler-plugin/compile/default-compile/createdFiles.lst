@@ -1,0 +1,6 @@
+ma\fsr\soa\rendezvousservice\exception\GlobalExceptionHandler.class
+ma\fsr\soa\rendezvousservice\service\RendezVousService.class
+ma\fsr\soa\rendezvousservice\dto\RendezVousDTO.class
+ma\fsr\soa\rendezvousservice\controller\RendezVousController.class
+ma\fsr\soa\rendezvousservice\exception\RendezVousException.class
+ma\fsr\soa\rendezvousservice\RendezVousServiceApplication.class

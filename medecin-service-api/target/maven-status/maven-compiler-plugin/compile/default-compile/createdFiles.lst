@@ -1,0 +1,6 @@
+ma\fsr\soa\medecinservice\controller\MedecinController.class
+ma\fsr\soa\medecinservice\service\MedecinService.class
+ma\fsr\soa\medecinservice\MedecinServiceApplication.class
+ma\fsr\soa\medecinservice\exception\MedecinException.class
+ma\fsr\soa\medecinservice\exception\GlobalExceptionHandler.class
+ma\fsr\soa\medecinservice\dto\MedecinDTO.class

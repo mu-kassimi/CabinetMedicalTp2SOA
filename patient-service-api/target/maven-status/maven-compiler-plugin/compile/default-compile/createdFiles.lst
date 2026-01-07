@@ -1,0 +1,6 @@
+ma\fsr\soa\patientservice\dto\PatientDTO.class
+ma\fsr\soa\patientservice\exception\PatientException.class
+ma\fsr\soa\patientservice\PatientServiceApplication.class
+ma\fsr\soa\patientservice\controller\PatientController.class
+ma\fsr\soa\patientservice\service\PatientService.class
+ma\fsr\soa\patientservice\exception\GlobalExceptionHandler.class
